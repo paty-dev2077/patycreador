@@ -1,0 +1,61 @@
+.subtibrown {  text-align:center; ; font-size:200%; color:darkgreen; border-width: medium; text-decoration: underline; }
+body { background-color:#5CB6FF }
+.ingr {text-align: center; color: ; background-color:#BE94FF; }
+.olives {text-align: center; font-size: 120%}
+.imagen2 {align-items: center;}
+
+header {background-color:#EF9EFF;
+        display:flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-flow: wrap;
+
+ }
+
+ .titulop {
+   font-size: 50px;
+   text-decoration: underline;
+   font-family: sans-serif;
+ }
+ .red {border-radius: 25%;
+       width: 100px;
+       height: 80px
+ }
+
+.logo { border-radius: 50%;
+        height: 130px; width: 100px;
+}
+footer {background-color:#EF9EFF;
+        display:flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-flow: wrap;
+ }
+ .recetas {
+   height: 250px;
+   width: 300px;
+ }
+ .recet{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   flex-direction: row
+ }
+ nav {
+   background-color: #BE94FF;
+   display: flex;
+   justify-content: space-around;
+   padding: 10px;
+   margin: 5px
+ }
+ .patyre {
+   background-color:#EF9EFF;
+
+ }
+ .patire:hover {
+   background-color:#BE94FF;
+ }
+ .salir {
+   display: flex;
+   justify-content: flex-end;
+ }
